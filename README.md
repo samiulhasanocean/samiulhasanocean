@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samiulhasanocean
+- 👋 Hi, I’m @samiul hasan
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on any collaboration project
